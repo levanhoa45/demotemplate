@@ -605,11 +605,13 @@ a.card:hover{
         padding: 5px;
         font-size: 12px;
         width: 150px;
+        margin-top: 5px;
     }
     form.search button {
         padding: 5px;
         font-size: 12px;
         width: 30px;
+        margin-top: 5px;
     }
     .lock{
         font-size: 15px;
@@ -664,9 +666,6 @@ a.card:hover{
     }
     .logo{
         margin-left: 45px;
-    }
-    .item{
-        flex-direction: column;
     }
 }
 @media only screen and (min-width: 767px) and (max-width: 1365px){
