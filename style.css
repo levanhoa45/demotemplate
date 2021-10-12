@@ -7,7 +7,7 @@ header{
 }
 .phone-top{
     display: flex;
-    margin-left: -40%;
+    margin-left: -30%;
 }
 .mobile{
     color: black;
@@ -21,7 +21,7 @@ header{
 }
 .logo{
     display: flex;
-    margin-left: 50px;
+    margin-left: 6%;
 }
 .name{
     color: black;
@@ -662,6 +662,9 @@ a.card:hover{
     .top-nav{
         margin-left: 0;
     }
+    .logo{
+        margin-left: 45px;
+    }
 }
 @media only screen and (min-width: 767px) and (max-width: 1365px){
     .center-img{
@@ -766,8 +769,8 @@ a.card:hover{
     }
     .dropbtn{
         font-size: 13px;
-        margin-left: 0;
-        margin-right: 0;
+        margin-left: -5px;
+        margin-right: -5px;
     }
     form.search input {
         padding: 5px;
@@ -807,6 +810,9 @@ a.card:hover{
     }
     .text-header{
         font-size: 13px;
+    }
+    .logo{
+        margin-left: 10%;
     }
 }
 @media only screen and (min-width: 1365px) and (max-width: 1620px){
